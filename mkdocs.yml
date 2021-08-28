@@ -1,4 +1,5 @@
 site_name: UL HPC Tutorials
+site_url: https://zealous-wing-8df066.netlify.app
 pages:
 - Home: 'index.md'
 - Latest HPC School: 'hpc-school.md'
