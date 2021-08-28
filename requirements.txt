@@ -8,4 +8,4 @@ pep562==1.0
 pymdown-extensions==6.2
 PyYAML==5.1.2
 six==1.13.0
-tornado==6.0.3
+tornado==5.1.1
